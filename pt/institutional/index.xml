@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Institutionals on Centro de Ajuda</title>
+    <link>https://support.w3source.org/pt/institutional/</link>
+    <description>Recent content in Institutionals on Centro de Ajuda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://support.w3source.org/pt/institutional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Divulgação de afiliados</title>
+      <link>https://support.w3source.org/pt/institutional/affiliate-disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/pt/institutional/affiliate-disclosure/</guid>
+      <description>Como usamos links externos em nosso site e todos os seus subdomínios</description>
+    </item>
+    
+    <item>
+      <title>Política de Cookie</title>
+      <link>https://support.w3source.org/pt/institutional/cookie-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/pt/institutional/cookie-policy/</guid>
+      <description>Política de Cookie para o Site e todos os seus subdomínios, incluindo este.</description>
+    </item>
+    
+    <item>
+      <title>Política de Privacidade</title>
+      <link>https://support.w3source.org/pt/institutional/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/pt/institutional/privacy-policy/</guid>
+      <description>Política de Privacidade para o Site e todos os seus subdomínios, incluindo este.</description>
+    </item>
+    
+    <item>
+      <title>Sobre nós</title>
+      <link>https://support.w3source.org/pt/institutional/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/pt/institutional/about/</guid>
+      <description>Criamos experiências de aprendizagem simplificadas.</description>
+    </item>
+    
+    <item>
+      <title>Termos e Condições</title>
+      <link>https://support.w3source.org/pt/institutional/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/pt/institutional/terms/</guid>
+      <description>Termos e condições para usar o Site e todos os seus subdomínios, incluindo este.</description>
+    </item>
+    
+  </channel>
+</rss>

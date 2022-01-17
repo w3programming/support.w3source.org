@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Help Center</title>
+    <link>https://support.w3source.org/en/</link>
+    <description>Recent content on Help Center</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://support.w3source.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://support.w3source.org/en/institutional/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/en/institutional/about/</guid>
+      <description>We create simplified learning experiences.</description>
+    </item>
+    
+    <item>
+      <title>Affiliate Disclosure</title>
+      <link>https://support.w3source.org/en/institutional/affiliate-disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/en/institutional/affiliate-disclosure/</guid>
+      <description>How we use external links on our Website and all its subdomains</description>
+    </item>
+    
+    <item>
+      <title>Cookie Policy</title>
+      <link>https://support.w3source.org/en/institutional/cookie-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/en/institutional/cookie-policy/</guid>
+      <description>Cookie Policy for the Website and all its subdomains, including this one.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://support.w3source.org/en/institutional/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/en/institutional/privacy-policy/</guid>
+      <description>Privacy Policy for the Website and all its subdomains, including this one.</description>
+    </item>
+    
+    <item>
+      <title>Terms and Conditions</title>
+      <link>https://support.w3source.org/en/institutional/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://support.w3source.org/en/institutional/terms/</guid>
+      <description>Terms and conditions for using the Website and all its subdomains, including this one.</description>
+    </item>
+    
+  </channel>
+</rss>

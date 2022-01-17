@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://support.w3source.org/sitemap.xml
